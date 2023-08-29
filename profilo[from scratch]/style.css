@@ -1,0 +1,38 @@
+#akhil{
+    padding-top: 3px;
+}
+.font-weight-bold{
+    font-family:Times
+    font
+    
+    
+}
+.font-weight-bold{
+    font-size: 25px;
+}
+#suku{
+    font-size: 34px;
+}
+
+    
+
+.intro-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.total{
+    background: hsla(0, 0%, 100%, 1);
+
+    background: linear-gradient(180deg, hsla(0, 0%, 100%, 1) 60%, hsla(69, 30%, 59%, 1) 100%);
+    
+    background: -moz-linear-gradient(180deg, hsla(0, 0%, 100%, 1) 60%, hsla(69, 30%, 59%, 1) 100%);
+    
+    background: -webkit-linear-gradient(180deg, hsla(0, 0%, 100%, 1) 60%, hsla(69, 30%, 59%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#AEB778", GradientType=1 );
+    margin: 0px;
+}
+.text-center{
+    font-weight: bolder;
+    font-size: 50px;
+}
